@@ -4,6 +4,7 @@ import { RouterModule, Routes } from '@angular/router';
 
 import { Page1Component } from './page1/page1.component';
 import { Page2Component } from './page2/page2.component';
+import { FeatureComponent } from './feature/feature.component';
 
 // Routes
 const appRoutes: Routes = [
@@ -13,6 +14,7 @@ const appRoutes: Routes = [
     resolve: { user: UserResolve }
   },
   { path: 'page2',  component: Page2Component },
+  { path: 'feature',  component: FeatureComponent },
   { path: '**',
     redirectTo: '/page1'
   }
