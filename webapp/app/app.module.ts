@@ -12,6 +12,7 @@ import { AppComponent } from './app.component';
 import { BaseNavComponent } from './core/base-nav/base-nav.component';
 import { Page1Component } from './page1/page1.component';
 import { Page2Component } from './page2/page2.component';
+import { FeatureComponent } from './feature/feature.component';
 
 // Services
 import { UserService } from './shared/service/user.service';
@@ -34,7 +35,8 @@ import { APP_BASE_HREF } from '@angular/common';
     AppComponent,
     BaseNavComponent,
     Page1Component,
-    Page2Component
+    Page2Component,
+    FeatureComponent
   ],
   entryComponents: [
   ],
