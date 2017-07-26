@@ -1,0 +1,644 @@
+[{
+	"caseNumber": "5229308044",
+	"caseDisplayName": "FREEMAN, Lori",
+	"designatedCourt": 7,
+	"orderNumber": 1,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Traffic",
+	"hearingInfo": {
+		"hearingType": "Sentencing",
+		"description": "Sentencing",
+		"inCustody": true,
+		"urn": "13/BD/78649/70"
+	},
+	"_id": "58aec860fc13ae6488000014",
+	"people": ["58aec860fc13ae6488000015",
+	"58ac01e9fc13ae2ac90001ec",
+	"58ac0191fc13ae6d2600025e"]
+},
+{
+	"caseNumber": "7956676851",
+	"caseDisplayName": "HENRY, Catherine",
+	"designatedCourt": 5,
+	"orderNumber": 1,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Common Assault",
+	"hearingInfo": {
+		"hearingType": "Sentencing",
+		"description": "Sentencing",
+		"inCustody": false,
+		"urn": "13/BD/05218/20"
+	},
+	"_id": "58aec860fc13ae6488000018",
+	"people": ["58aec860fc13ae6488000019",
+	"58ac01e9fc13ae2ac90001e0",
+	"58aec860fc13ae648800001b"]
+},
+{
+	"caseNumber": "0629022461",
+	"caseDisplayName": "CARTER, Virginia",
+	"designatedCourt": 3,
+	"orderNumber": 1,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Anti Social",
+	"hearingInfo": {
+		"hearingType": "Trial",
+		"description": "Trial",
+		"inCustody": false,
+		"urn": "13/BD/11396/69"
+	},
+	"_id": "58aec860fc13ae648800001c",
+	"people": ["58aec860fc13ae648800001d",
+	"58ac0191fc13ae6d26000263",
+	"58aec860fc13ae648800001f"]
+},
+{
+	"caseNumber": "7711672748",
+	"caseDisplayName": "WILLIS, Deborah",
+	"designatedCourt": 4,
+	"orderNumber": 1,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Traffic",
+	"hearingInfo": {
+		"hearingType": "Hearing",
+		"description": "Hearing",
+		"inCustody": false,
+		"urn": "13/BD/11375/69"
+	},
+	"_id": "58aec860fc13ae6488000020",
+	"people": ["58aec860fc13ae6488000021",
+	"58ac01e9fc13ae2ac90001e4"]
+},
+{
+	"caseNumber": "4381387546",
+	"caseDisplayName": "MORALES, Linda",
+	"designatedCourt": 5,
+	"orderNumber": 2,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Cruelty",
+	"hearingInfo": {
+		"hearingType": "Trial",
+		"description": "Trial",
+		"inCustody": false,
+		"urn": "13/BD/91623/48"
+	},
+	"_id": "58aec860fc13ae6488000024",
+	"people": ["58aec860fc13ae6488000025",
+	"58ac01e9fc13ae2ac90001ec",
+	"58ac0191fc13ae6d26000260"]
+},
+{
+	"caseNumber": "8323657629",
+	"caseDisplayName": "CARTER, Laura",
+	"designatedCourt": 1,
+	"orderNumber": 1,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "River Polllution",
+	"hearingInfo": {
+		"hearingType": "Trial",
+		"description": "Trial",
+		"inCustody": false,
+		"urn": "13/BD/58721/10"
+	},
+	"_id": "58aec860fc13ae6488000028",
+	"people": ["58aec860fc13ae6488000029",
+	"58ac01e9fc13ae2ac90001e0",
+	"58ac0191fc13ae6d26000265"]
+},
+{
+	"caseNumber": "6516133875",
+	"caseDisplayName": "NGUYEN, Judy",
+	"designatedCourt": 5,
+	"orderNumber": 3,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Absence",
+	"hearingInfo": {
+		"hearingType": "Hearing",
+		"description": "Hearing",
+		"inCustody": true,
+		"urn": "13/BD/40433/91"
+	},
+	"_id": "58aec860fc13ae648800002c",
+	"people": ["58aec860fc13ae648800002d",
+	"58ac0191fc13ae6d26000262",
+	"58aec860fc13ae648800002f"]
+},
+{
+	"caseNumber": "84516843610",
+	"caseDisplayName": "MONTGOMERY, Russell",
+	"designatedCourt": 3,
+	"orderNumber": 2,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "DV",
+	"hearingInfo": {
+		"hearingType": "Trial",
+		"description": "Trial",
+		"inCustody": true,
+		"urn": "13/BD/81417/03"
+	},
+	"_id": "58aec860fc13ae6488000030",
+	"people": ["58aec861fc13ae6488000031",
+	"58ac01e9fc13ae2ac90001ec",
+	"58aec861fc13ae6488000033"]
+},
+{
+	"caseNumber": "7459546674",
+	"caseDisplayName": "COOK, Dorothy",
+	"designatedCourt": 7,
+	"orderNumber": 2,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Drunk and Disorderly",
+	"hearingInfo": {
+		"hearingType": "Sentencing",
+		"description": "Sentencing",
+		"inCustody": false,
+		"urn": "13/BD/02631/20"
+	},
+	"_id": "58aec861fc13ae6488000034",
+	"people": ["58aec861fc13ae6488000035",
+	"58aec861fc13ae6488000036",
+	"58aec861fc13ae6488000037"]
+},
+{
+	"caseNumber": "8774688642",
+	"caseDisplayName": "PRICE, Adam",
+	"designatedCourt": 3,
+	"orderNumber": 3,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Ticket Evasion",
+	"hearingInfo": {
+		"hearingType": "Hearing",
+		"description": "Hearing",
+		"inCustody": true,
+		"urn": "13/BD/27821/37"
+	},
+	"_id": "58aec861fc13ae6488000038",
+	"people": ["58aec861fc13ae6488000039",
+	"58ac01e9fc13ae2ac90001e0",
+	"58ac0191fc13ae6d26000263"]
+},
+{
+	"caseNumber": "9251950490",
+	"caseDisplayName": "GOMEZ, Angela",
+	"designatedCourt": 4,
+	"orderNumber": 2,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Cruelty",
+	"hearingInfo": {
+		"hearingType": "Sentencing",
+		"description": "Sentencing",
+		"inCustody": false,
+		"urn": "13/BD/96764/94"
+	},
+	"_id": "58aec861fc13ae648800003c",
+	"people": ["58aec861fc13ae648800003d",
+	"58ac0191fc13ae6d2600025f",
+	"58aec861fc13ae648800003f"]
+},
+{
+	"caseNumber": "4103023414",
+	"caseDisplayName": "WALKER, Arthur",
+	"designatedCourt": 3,
+	"orderNumber": 4,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Ticket Evasion",
+	"hearingInfo": {
+		"hearingType": "Hearing",
+		"description": "Hearing",
+		"inCustody": false,
+		"urn": "13/BD/62411/59"
+	},
+	"_id": "58aec861fc13ae6488000040",
+	"people": ["58aec861fc13ae6488000041",
+	"58ac0191fc13ae6d26000261"]
+},
+{
+	"caseNumber": "2491113759",
+	"caseDisplayName": "CARR, Jane",
+	"designatedCourt": 6,
+	"orderNumber": 1,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Theft",
+	"hearingInfo": {
+		"hearingType": "Sentencing",
+		"description": "Sentencing",
+		"inCustody": false,
+		"urn": "13/BD/67465/54"
+	},
+	"_id": "58aec861fc13ae6488000044",
+	"people": ["58aec861fc13ae6488000045"]
+},
+{
+	"caseNumber": "8178891115",
+	"caseDisplayName": "POWELL, Mary",
+	"designatedCourt": 5,
+	"orderNumber": 4,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Drugs",
+	"hearingInfo": {
+		"hearingType": "Trial",
+		"description": "Trial",
+		"inCustody": false,
+		"urn": "13/BD/75414/86"
+	},
+	"_id": "58aec861fc13ae6488000048",
+	"people": ["58aec861fc13ae6488000049",
+	"58ac01e9fc13ae2ac90001e9",
+	"58ac0191fc13ae6d26000268"]
+},
+{
+	"caseNumber": "5583443235",
+	"caseDisplayName": "KING, Mildred",
+	"designatedCourt": 3,
+	"orderNumber": 5,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Burglary",
+	"hearingInfo": {
+		"hearingType": "Trial",
+		"description": "Trial",
+		"inCustody": true,
+		"urn": "13/BD/12360/30"
+	},
+	"_id": "58aec861fc13ae648800004c",
+	"people": ["58aec861fc13ae648800004d",
+	"58ac01e9fc13ae2ac90001e1",
+	"58ac0191fc13ae6d26000266"]
+},
+{
+	"caseNumber": "6722296857",
+	"caseDisplayName": "WHEELER, Barbara",
+	"designatedCourt": 3,
+	"orderNumber": 6,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "No Insurance",
+	"hearingInfo": {
+		"hearingType": "Trial",
+		"description": "Trial",
+		"inCustody": true,
+		"urn": "13/BD/43594/95"
+	},
+	"_id": "58aec861fc13ae6488000050",
+	"people": ["58aec861fc13ae6488000051",
+	"58ac0191fc13ae6d26000261",
+	"58aec861fc13ae6488000053"]
+},
+{
+	"caseNumber": "7309007654",
+	"caseDisplayName": "HARRISON, Alice",
+	"designatedCourt": 5,
+	"orderNumber": 5,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Burglary",
+	"hearingInfo": {
+		"hearingType": "Sentencing",
+		"description": "Sentencing",
+		"inCustody": true,
+		"urn": "13/BD/75735/79"
+	},
+	"_id": "58aec861fc13ae6488000054",
+	"people": ["58aec861fc13ae6488000055",
+	"58ac0191fc13ae6d26000266"]
+},
+{
+	"caseNumber": "7527413263",
+	"caseDisplayName": "WALLACE, Thomas",
+	"designatedCourt": 4,
+	"orderNumber": 3,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Ticket Evasion",
+	"hearingInfo": {
+		"hearingType": "Sentencing",
+		"description": "Sentencing",
+		"inCustody": true,
+		"urn": "13/BD/49912/26"
+	},
+	"_id": "58aec861fc13ae6488000058",
+	"people": ["58aec861fc13ae6488000059"]
+},
+{
+	"caseNumber": "5492338331",
+	"caseDisplayName": "HILL, Laura",
+	"designatedCourt": 7,
+	"orderNumber": 3,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "DV",
+	"hearingInfo": {
+		"hearingType": "Sentencing",
+		"description": "Sentencing",
+		"inCustody": false,
+		"urn": "13/BD/02061/09"
+	},
+	"_id": "58aec861fc13ae648800005c",
+	"people": ["58aec861fc13ae648800005d"]
+},
+{
+	"caseNumber": "1786044994",
+	"caseDisplayName": "MURPHY, Sean",
+	"designatedCourt": 7,
+	"orderNumber": 4,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Speeding",
+	"hearingInfo": {
+		"hearingType": "Hearing",
+		"description": "Hearing",
+		"inCustody": true,
+		"urn": "13/BD/01787/25"
+	},
+	"_id": "58aec861fc13ae6488000060",
+	"people": ["58aec861fc13ae6488000061",
+	"58ac0191fc13ae6d26000269"]
+},
+{
+	"caseNumber": "0539607819",
+	"caseDisplayName": "HICKS, Ruth",
+	"designatedCourt": 7,
+	"orderNumber": 5,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "River Polllution",
+	"hearingInfo": {
+		"hearingType": "Sentencing",
+		"description": "Sentencing",
+		"inCustody": true,
+		"urn": "13/BD/94143/91"
+	},
+	"_id": "58aec861fc13ae6488000064",
+	"people": ["58aec861fc13ae6488000065"]
+},
+{
+	"caseNumber": "2073445470",
+	"caseDisplayName": "CARTER, Jean",
+	"designatedCourt": 3,
+	"orderNumber": 7,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Theft",
+	"hearingInfo": {
+		"hearingType": "Hearing",
+		"description": "Hearing",
+		"inCustody": true,
+		"urn": "13/BD/90885/77"
+	},
+	"_id": "58aec861fc13ae6488000068",
+	"people": ["58aec861fc13ae6488000069"]
+},
+{
+	"caseNumber": "7287941694",
+	"caseDisplayName": "DIAZ, Sandra",
+	"designatedCourt": 7,
+	"orderNumber": 6,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "DV",
+	"hearingInfo": {
+		"hearingType": "Sentencing",
+		"description": "Sentencing",
+		"inCustody": false,
+		"urn": "13/BD/52806/28"
+	},
+	"_id": "58aec861fc13ae648800006c",
+	"people": ["58aec861fc13ae648800006d",
+	"58ac01e9fc13ae2ac90001e8",
+	"58ac0191fc13ae6d26000265"]
+},
+{
+	"caseNumber": "5567221800",
+	"caseDisplayName": "ELLIS, Phyllis",
+	"designatedCourt": 6,
+	"orderNumber": 2,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Littering",
+	"hearingInfo": {
+		"hearingType": "Trial",
+		"description": "Trial",
+		"inCustody": true,
+		"urn": "13/BD/07368/51"
+	},
+	"_id": "58aec861fc13ae6488000070",
+	"people": ["58aec861fc13ae6488000071",
+	"58ac01e9fc13ae2ac90001e1",
+	"58ac0191fc13ae6d26000260"]
+},
+{
+	"caseNumber": "7884809443",
+	"caseDisplayName": "WALKER, Melissa",
+	"designatedCourt": 3,
+	"orderNumber": 8,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Council Tax",
+	"hearingInfo": {
+		"hearingType": "Hearing",
+		"description": "Hearing",
+		"inCustody": false,
+		"urn": "13/BD/34982/14"
+	},
+	"_id": "58aec861fc13ae6488000074",
+	"people": ["58aec861fc13ae6488000075",
+	"58ac01e9fc13ae2ac90001e1",
+	"58ac0191fc13ae6d26000261"]
+},
+{
+	"caseNumber": "9808853668",
+	"caseDisplayName": "LARSON, Eric",
+	"designatedCourt": 3,
+	"orderNumber": 9,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Burglary",
+	"hearingInfo": {
+		"hearingType": "Trial",
+		"description": "Trial",
+		"inCustody": false,
+		"urn": "13/BD/63021/03"
+	},
+	"_id": "58aec861fc13ae6488000078",
+	"people": ["58aec861fc13ae6488000079",
+	"58aec861fc13ae648800007a",
+	"58aec861fc13ae648800007b"]
+},
+{
+	"caseNumber": "4138122249",
+	"caseDisplayName": "ROMERO, Pamela",
+	"designatedCourt": 3,
+	"orderNumber": 10,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Speeding",
+	"hearingInfo": {
+		"hearingType": "Hearing",
+		"description": "Hearing",
+		"inCustody": false,
+		"urn": "13/BD/89936/62"
+	},
+	"_id": "58aec861fc13ae648800007c",
+	"people": ["58aec861fc13ae648800007d",
+	"58ac01e9fc13ae2ac90001e1",
+	"58aec861fc13ae648800007f"]
+},
+{
+	"caseNumber": "1176787799",
+	"caseDisplayName": "COLLINS, Alan",
+	"designatedCourt": 4,
+	"orderNumber": 4,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Drugs",
+	"hearingInfo": {
+		"hearingType": "Trial",
+		"description": "Trial",
+		"inCustody": true,
+		"urn": "13/BD/24710/73"
+	},
+	"_id": "58aec861fc13ae6488000080",
+	"people": ["58aec861fc13ae6488000081",
+	"58ac0191fc13ae6d26000265"]
+},
+{
+	"caseNumber": "3110743930",
+	"caseDisplayName": "HOWARD, Todd",
+	"designatedCourt": 3,
+	"orderNumber": 11,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "Disturbing the Peace",
+	"hearingInfo": {
+		"hearingType": "Sentencing",
+		"description": "Sentencing",
+		"inCustody": false,
+		"urn": "13/BD/62133/94"
+	},
+	"_id": "58aec861fc13ae6488000084",
+	"people": ["58aec861fc13ae6488000085",
+	"58ac01e9fc13ae2ac90001e8"]
+},
+{
+	"caseNumber": "1329660331",
+	"caseDisplayName": "BRADLEY, Jacqueline",
+	"designatedCourt": 3,
+	"orderNumber": 12,
+	"status": [{
+		"state": "NotStarted",
+		"time": "2017-02-23T08:00:07.532Z"
+	}],
+	"guiltyPlea": false,
+	"offence": "River Polllution",
+	"hearingInfo": {
+		"hearingType": "Sentencing",
+		"description": "Sentencing",
+		"inCustody": true,
+		"urn": "13/BD/81025/17"
+	},
+	"_id": "58aec861fc13ae6488000088",
+	"people": ["58aec861fc13ae6488000089",
+	"58ac01e9fc13ae2ac90001ec",
+	"58ac0191fc13ae6d26000266"]
+}]
